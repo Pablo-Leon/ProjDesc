@@ -1,0 +1,37 @@
+---
+name: HabCOST
+desc: Habilitación COST
+responsable: &US API-UX
+outline:
+  - Customizing_and_Development:
+      - Laboratorio_de_COST
+  - Configurar_listener_en_modalidad_COST:
+      - Eval_impacto_práctico
+      - Paso_a_Prod:
+          - Coordinar_cambio_de_configuración
+          - Ejecutar_cambio_de_config
+          - Soporte_post-paso_prod
+  - Documentación
+# activities:
+#  Laboratorio_de_COST:
+#   responsable: *&US
+# 		resource: { type:DBA-Senior, hours: 6 }
+#   Eval_impacto_práctico: {
+# 		responsable: &US
+# 		resource: { type:DBA-Senior, hours: 4 }
+# 		}
+#   Coordinar_cambio_de_configuración: {
+# 		responsable: &US
+# 		resource: { type:DBA-Senior, hours: 4 }
+# 		}
+#   Ejecutar_cambio_de_config: {
+# 		responsable: &US
+# 		resource: { type:DBA-Senior, hours: 4 }
+# 		conditions: [ offline ]
+# 		}
+#   Soporte_post-paso_prod: {
+# 		responsable: &US
+# 		resource: { type:DBA-Senior, hours: 4 }
+# 		}
+# 
+...
